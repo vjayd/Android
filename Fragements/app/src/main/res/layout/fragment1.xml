@@ -8,6 +8,7 @@
         android:id="@+id/firstfragment"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
+        android:background="#f4f4ff"
         android:text="@string/firstfragment"/>
 
 

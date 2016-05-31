@@ -6,6 +6,7 @@
     <TextView
         android:id="@+id/secondfragment"
         android:layout_width="match_parent"
+        android:background="#ffffff"
         android:layout_height="match_parent"
         android:text="@string/secondfragment"/>
 
